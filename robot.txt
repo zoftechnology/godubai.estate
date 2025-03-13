@@ -1,0 +1,6 @@
+# Allow all web crawlers access to everything
+User-agent: *
+Disallow:
+
+# Sitemap location
+Sitemap:https://sitemapr.godubai.estate/*
