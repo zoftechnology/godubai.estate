@@ -389,4 +389,12 @@
   <loc>https://www.godubai.estate/broker-hub/mixed-use-developments-in-dubai-a-comprehensive-guide</loc>
   <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://www.godubai.estate/job-vacancies</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.godubai.estate/job-vacancies/international-real-estate-broker</loc>
+  <priority>0.64</priority>
+</url>
 </urlset>
